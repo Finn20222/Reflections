@@ -1,0 +1,24 @@
+What happens when you initialize a repository?
+A repository is create to sort the files every time you make a commit.  This is so you can keep your simular files together
+How is the staging area different from the working directory and the repository?
+
+What value do you think it offers? Why do you need to do it?
+This helps by filing different commits into different repositories.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+You seperate the commits so that you can break up the commits in different directorys to keep your code organized.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+when you want to add new code that may be wrong it won't mix in right away.
+
+How do the diagrams help you visualize the branch structure?
+Using visual tools keeps me more organized
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+It connects two different code functions.
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+Merging manual allows you to choose when you would like to merge code.
